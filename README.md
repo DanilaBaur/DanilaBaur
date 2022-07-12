@@ -1,7 +1,6 @@
 - 👋 Приветик, я @DanilaBaur
 - 👀 Занимаюсь всякой хернёй
-- 🌱 Изучаю веб-программирование (HTML, CSS, JS) и Python
-- 📫 Почта - danik.baur@gmail.com | VK - danilabaur
+- 🌱 Изучаю веб-программирование (HTML, CSS, JS) и Pythonr
 
 <!---
 DanilaBaur/DanilaBaur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
