@@ -1,6 +1,6 @@
 - 👋 Приветик, я @DanilaBaur
 - 👀 Занимаюсь всякой хернёй
-- 🌱 Изучаю веб-программирование (HTML, CSS, JS) и Pythonr
+- 🌱 Изучаю Unity, C# и много всего
 
 <!---
 DanilaBaur/DanilaBaur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
